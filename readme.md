@@ -37,7 +37,8 @@ Once you have installed `hyper-totoro`, it's time to set your favorite theme.
 
 Go to your `~/.hyper.js` and add the `totoro` option below the `colors` object, and define your theme of choice.
 
-Here is a quick example, where we choose the `dark` ![](cursors/dark.gif) theme, with a `unibody` color for the window header & dark terminal tabs.
+Here is a quick example, where we choose the `dark` theme, ![](cursors/dark.gif)  
+with a `unibody` color for the window header & dark terminal tabs. 
 
 ```js
 config: {
