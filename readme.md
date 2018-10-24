@@ -4,8 +4,6 @@
 - [Usage](#usage)
 - [Options](#options)
 - [Available Themes](#available-themes)
-- [Related](#related)
-- [Team](#team)
 - [License](#license)
 
 ## Install
