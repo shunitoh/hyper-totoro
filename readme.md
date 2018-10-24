@@ -1,3 +1,5 @@
+![hyper-totoro](https://user-images.githubusercontent.com/10148753/47444314-2ef99980-d7f1-11e8-9b15-9c002bb8e4cf.gif)
+
 ## Contents
 
 - [Install](#install)
