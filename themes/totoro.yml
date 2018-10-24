@@ -1,0 +1,24 @@
+##
+# All totoro
+##
+totoro:
+  dark:
+    primary: '#B88B61'
+    secondary: '#FFFFFF'
+    tertiary: '#66226E'
+    unibody: '#010101'
+##
+# Default values
+##
+#default:
+#  light:
+#    primary: '#383A42'
+#    secondary: '#383A42'
+#    tertiary: '#383A42'
+#    unibody: '#383A42'
+#
+#  dark:
+#    primary: '#FAFAFA'
+#    secondary: '#FAFAFA'
+#    tertiary: '#FAFAFA'
+#    unibody: '#FAFAFA'

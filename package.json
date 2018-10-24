@@ -1,0 +1,31 @@
+{
+  "name": "hyper-pokemon",
+  "version": "0.0.1",
+  "description": "hyper terminal plugin",
+  "license": "MIT",
+  "files": [
+    "index.js",
+    "backgrounds",
+    "cursors",
+    "themes"
+  ],
+  "keywords": [
+    "hyper",
+    "totoro",
+    "theme"
+  ],
+  "scripts": {
+    "test": "xo && yamllint themes/*.yml"
+  },
+  "dependencies": {
+    "color": "^3.0.0",
+    "js-yaml": "^3.10.0"
+  },
+  "devDependencies": {
+    "xo": "*",
+    "yaml-lint": "^1.0.0"
+  },
+  "xo": {
+    "space": 2
+  }
+}
