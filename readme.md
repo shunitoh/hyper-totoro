@@ -85,6 +85,8 @@ You canpreview in detail all of the available themes
 
 * `Dark`
 
+</details>
+
 ## License
 
 MIT
