@@ -5,7 +5,7 @@
   "license": "MIT",
   "author": {
     "name": "Shun Ito"
-  }
+  },
   "repository": "shunitoh/hyper-totoro",
   "files": [
     "index.js",
