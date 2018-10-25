@@ -12,22 +12,24 @@ Please don't use for commercial purposes. Please use only by yourself.
 
 ## Install
 
-### Using the plugin manager - `hyper`
-
-Firstly, ensure you have [Hyper](https://github.com/zeit/hyper/releases) installed in your system.
-
-Once done with that, install the `hyper-totoro` theme.
-
-```bash
-# fire up a terminal and type 
-$ git clone https://github.com/shunitoh/hyper-totoro.git ~/.hyper_plugins/local/hyper-totoro
-```
-
 ### Manually through `.hyper.js`
 
 Add `hyper-totoro` to the plugins list in your `~/.hyper.js` config file and restart Hyper.
 
-```js
+- add plugins
+```vim
+$ vim ~/.hyper.js
+...
+plugins: ['hyper-totoro']
+...
+```
+- add localPlugins
+```bash
+# fire up a terminal and type 
+$ git clone https://github.com/shunitoh/hyper-totoro.git ~/.hyper_plugins/local/hyper-totoro
+```
+```vim
+$ vim ~/.hyper.js
 ...
 localPlugins: ['hyper-totoro'],
 ...
