@@ -3,6 +3,10 @@
   "version": "0.0.3",
   "description": "hyper terminal plugin",
   "license": "MIT",
+  "author": {
+    "name": "Shun Ito"
+  }
+  "repository": "shunitoh/hyper-totoro",
   "files": [
     "index.js",
     "backgrounds",
