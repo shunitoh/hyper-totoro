@@ -23,6 +23,7 @@ $ vim ~/.hyper.js
 plugins: ['hyper-totoro']
 //...
 ```
+OR
 - add localPlugins
 ```bash
 # fire up a terminal and type 
