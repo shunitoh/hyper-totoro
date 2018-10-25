@@ -17,22 +17,22 @@ Please don't use for commercial purposes. Please use only by yourself.
 Add `hyper-totoro` to the plugins list in your `~/.hyper.js` config file and restart Hyper.
 
 - add plugins
-```vim
+```js
 $ vim ~/.hyper.js
-...
+//...
 plugins: ['hyper-totoro']
-...
+//...
 ```
 - add localPlugins
 ```bash
 # fire up a terminal and type 
 $ git clone https://github.com/shunitoh/hyper-totoro.git ~/.hyper_plugins/local/hyper-totoro
 ```
-```vim
+```js
 $ vim ~/.hyper.js
-...
+//...
 localPlugins: ['hyper-totoro'],
-...
+//...
 ```
 
 ## Usage
@@ -45,6 +45,8 @@ Here is a quick example, where we choose the `dark` theme, ![](cursors/dark.gif)
 with a `unibody` color for the window header & dark terminal tabs. 
 
 ```js
+$ vim ~/.hyper.js
+//...
 config: {
     //...
     colors: {
@@ -55,6 +57,7 @@ config: {
     totorotab: 'true', // activate your theme's totorotab
     //...
 }
+//...
 ```
 
 ## Options
