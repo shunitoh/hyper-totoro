@@ -53,7 +53,7 @@ config: {
     colors: {
     //...
     },
-    totoro: 'dark', // Choose your favorite pokemon theme
+    totoro: 'dark', // Choose your favorite theme
     unibody: 'true', // Choose the color of the window header
     totorotab: 'true', // activate your theme's totorotab
     //...
